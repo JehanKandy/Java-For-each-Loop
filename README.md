@@ -1,6 +1,6 @@
 # Java-For-each-Loop
 Java For-each Loop
-
+Watch basic code using following link
 <br><br>
 <b>code Explain</b>
 
@@ -12,3 +12,6 @@ Java For-each Loop
               }
           }
       }
+      
+
+In oder to above code I 
