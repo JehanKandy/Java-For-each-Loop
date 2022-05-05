@@ -6,5 +6,4 @@ public class foreach_loop {
             System.out.println(i);
         }
     }
-    
 }
